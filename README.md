@@ -1,43 +1,33 @@
-# 💖 DevTinder – Connect, Build & Grow 🚀  
+<h1 align="center">🌸 React + TailwindCSS + DaisyUI Starter Template</h1>
 
-DevTinder is a **MERN stack web application** I built to help developers connect with each other – just like Tinder, but for **collaboration, networking, and growth.** 🌐👨‍💻  
+<p align="center">
+  <b>A sleek, ready-to-use React + Vite setup with TailwindCSS and DaisyUI preconfigured.</b><br/>
+  Build beautiful, responsive, and themeable UIs instantly 🚀
+</p>
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen?style=for-the-badge)](http://13.203.102.109/)  
-[![Frontend Repo](https://img.shields.io/badge/Frontend-Repository-blue?style=for-the-badge&logo=react)](https://github.com/praveenudayagiri/DevTinder-Frontend-Production)  
-[![Backend Repo](https://img.shields.io/badge/Backend-Repository-lightgrey?style=for-the-badge&logo=node.js)](https://github.com/praveenudayagiri/DevTinder-Backend-Production)  
-
----
-
-### ✨ How it Works
-- 👀 Browse developer profiles from around the world.  
-- ❤️ Click **Interested** or ❌ **Ignore**.  
-- 🔗 When both developers show mutual interest → **Match Created!**  
-- 💬 Matched users can **chat, collaborate, and build projects together.**  
+<p align="center">
+  <img src="https://img.shields.io/badge/React-19.1-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/TailwindCSS-3.4-38BDF8?style=for-the-badge&logo=tailwindcss" />
+  <img src="https://img.shields.io/badge/DaisyUI-5.4.5-FF69B4?style=for-the-badge&logo=daisyui" />
+  <img src="https://img.shields.io/badge/Vite-7.2-FFC300?style=for-the-badge&logo=vite" />
+</p>
 
 ---
 
-### 🌟 Key Highlights
-- 🔗 **Connect**: Find developers with shared passions.  
-- 🛠️ **Build**: Work together on real projects.  
-- 🎯 **Grow**: Expand skills and network beyond boundaries.  
+## 🪄 Overview
+
+This template gives you a **zero-config** starting point for React projects with:
+- ⚛️ **React 19 + Vite 7** → blazing fast build system  
+- 🎨 **TailwindCSS 3.4** → modern utility-first CSS  
+- 🌼 **DaisyUI 5.x** → ready-made components and themes  
+- ⚡ Instant Hot Reload & clean folder structure  
+- 🌗 Dark/Light mode + custom themes support  
 
 ---
 
-### 💻 Tech Stack
-- **Frontend:** React, Redux, Tailwind CSS  
-- **Backend:** Node.js, Express.js, MongoDB  
-- **Real-time Communication:** Socket.io  
-- **Deployment:** AWS EC2 + Nginx  
+## 🧭 Getting Started
 
----
-
-### ⚡ Deployment
-👉 Live Demo: [http://13.203.102.109/](http://13.203.102.109/)  
-
-⚠️ *Note: Mobile responsiveness is not yet implemented. Please view on a laptop/desktop for best experience.*  
-
----
-
-### 🚀 Getting Started  
-
-#### Clone the repositories:
+### 🔹 1. Clone this repository
+```bash
+git clone https://github.com/<your-username>/<your-repo-name>.git
+cd <your-repo-name>
